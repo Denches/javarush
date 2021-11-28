@@ -17,7 +17,7 @@ public class Solution {
     public static void definitionOfClass(Object o){
 
         if (o instanceof Cow){
-            System.out.println("Кошка");
+            System.out.println("Корова");
         } else if (o instanceof Dog) {
             System.out.println("Собака");
         }else if (o instanceof Whale) {
