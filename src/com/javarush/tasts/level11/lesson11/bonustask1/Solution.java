@@ -10,9 +10,9 @@ public class Solution {
 
     }
 
-    public static class Cat extends Pat{}
-    public static class Dog extends Pat{}
-    public static class Pat{}
+    public static class Cat extends Pet{}
+    public static class Dog extends Pet{}
+    public static class Pet{}
     public static class House{}
     public static class Airplane{}
 }
