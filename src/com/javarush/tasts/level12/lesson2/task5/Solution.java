@@ -21,7 +21,7 @@ public class Solution {
         } else if (o instanceof Dog) {
             System.out.println("Собака");
         }else if (o instanceof Whale) {
-            System.out.println("Птица");
+            System.out.println("Кит");
         }else {
             System.out.println("Неизвестное животное");
         }
