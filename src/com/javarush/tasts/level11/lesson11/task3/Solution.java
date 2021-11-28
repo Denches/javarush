@@ -14,5 +14,5 @@ public class Solution {
     public static class Fish{}
     public static class Animal extends Fish{}
     public static class Ape extends Animal{}
-    public static class Human extends  Animal{}
+    public static class Human extends  Ape{}
 }
